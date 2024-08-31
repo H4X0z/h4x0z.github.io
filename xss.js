@@ -1,1 +1,1 @@
-print()
+alert(document.cookie)
